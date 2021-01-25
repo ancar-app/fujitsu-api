@@ -1,5 +1,5 @@
-import { ApiKey, ErrorResponse } from '@apis/@types'
-import { JobId } from '@apis/v2/@types'
+import { ApiKey, ErrorResponse } from '../../../../@types'
+import { JobId } from '../../../@types'
 import { CanceledJob, DoneJob, WipJob } from '../@types'
 
 export type Methods = {

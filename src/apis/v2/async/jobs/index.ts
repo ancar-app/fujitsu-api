@@ -1,4 +1,4 @@
-import { ApiKey, ErrorResponse } from '@apis/@types'
+import { ApiKey, ErrorResponse } from '../../../@types'
 import { JobStatusList } from './@types'
 
 export type Methods = {

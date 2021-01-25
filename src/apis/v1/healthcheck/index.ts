@@ -1,4 +1,4 @@
-import { ErrorResponse } from '@apis/@types'
+import { ErrorResponse } from '../../@types'
 
 export type Methods = {
   get: {

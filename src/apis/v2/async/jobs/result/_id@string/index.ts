@@ -1,5 +1,5 @@
-import { ApiKey, ErrorResponse } from '@apis/@types'
-import { DeletedJob, DoneJob, WipJob } from '@apis/v2/async/jobs/@types'
+import { ApiKey, ErrorResponse } from '../../../../../@types'
+import { DeletedJob, DoneJob, WipJob } from '../../@types'
 
 export type Methods = {
   get: {
