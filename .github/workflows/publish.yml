@@ -9,8 +9,7 @@ on:
       - '!*'
 
 jobs:
-  release:
-    name: Setup
+  publish:
     runs-on: ubuntu-latest
     steps:
       - name: checkout
