@@ -1,7 +1,7 @@
-import { ErrorResponse } from 'apis/@types'
+import { ErrorResponse } from '@apis/@types'
 
 export type Methods = {
   get: {
-    resBody: Record<string, any> | ErrorResponse
+    resBody: Record<string, unknown> | ErrorResponse
   }
 }

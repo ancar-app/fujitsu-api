@@ -1,4 +1,4 @@
-import { QuboResponse } from 'apis/v2/@types'
+import { QuboResponse } from '@apis/v2/@types'
 
 export const JobStatus = {
   DONE: 'Done',

@@ -1,5 +1,5 @@
-import { ApiKey, ErrorResponse } from 'apis/@types'
-import { QuboRequest, QuboResponse } from 'apis/v2/@types'
+import { ApiKey, ErrorResponse } from '@apis/@types'
+import { QuboRequest, QuboResponse } from '@apis/v2/@types'
 
 export type Methods = {
   post: {
